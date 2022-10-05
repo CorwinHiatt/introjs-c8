@@ -1,0 +1,18 @@
+[
+
+    {
+        "firstName": "bobby",
+        "grade": 100,
+        "address": "120 apple way fort lauderdale, FL 33304"
+    },
+    {
+        "firstName": "jenny",
+        "grade": 32,
+        "address": "1234 boca way fort lauderdale, FL 33304"
+    },
+    {
+        "firstName": "bear",
+        "grade": 99,
+        "address": "1201 code way fort lauderdale, FL 33304"
+    }
+]

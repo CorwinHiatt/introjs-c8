@@ -15,10 +15,10 @@
 // wholeRow += 1---i*J
 
 for (let i = 1; i <= 10; i++) {
-    console.log(wholeRow)
     let wholeRow = ''
     for (let j = 1; j <= 10; j++) {
-        let sum =
+        // let sum =
         wholeRow += '  ' + (i * j)                                         //console.log(i * j)// not correct format 
     }
+    console.log(wholeRow)
 }
