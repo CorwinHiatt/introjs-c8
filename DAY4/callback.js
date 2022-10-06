@@ -26,4 +26,12 @@ console.log(double(6))
 const aspectRation = (width, height) => width / heith 
 
 
+const num = 5 
+function factorial(num) {
+    if (num === 1 ) {
+        return 1
+    } return num * factorial(-1)
+}
 
+
+console.log(factorial)

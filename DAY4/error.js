@@ -26,7 +26,7 @@
 
 //Console.log('Finish!')
 
-        //myFunc = () => {  } ——decleration
+      //myFunc = () => {  } ——decleration
 		//function () {. }
 		//(argument) => {  }.  —— anonymous
 
